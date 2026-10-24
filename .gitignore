@@ -1,1 +1,21 @@
+# Build files
+build/
 
+# Object files
+*.o
+
+# Python cache files and folders
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
